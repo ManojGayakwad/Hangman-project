@@ -1,0 +1,26 @@
+{
+  "files": {
+    "Hangman.toml": [
+      {
+        "id": "4725a37f-e55e-4c33-8fc0-61dd075fe39e",
+        "line": 6,
+        "version": 1,
+        "index": 116
+      }
+    ],
+    "main.py": [
+      {
+        "id": "41205960-0168-484c-8ef8-7a4fe921d8b6",
+        "line": 1,
+        "version": 850,
+        "index": 0
+      },
+      {
+        "id": "b71ee7c6-d28d-4092-bd1d-8dbedbdf9d3e",
+        "line": 1,
+        "version": 850,
+        "index": 0
+      }
+    ]
+  }
+}
